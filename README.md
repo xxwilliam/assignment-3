@@ -29,7 +29,7 @@
 
 <p><b>Group Processes:</b></p>
 
-Well I think we worked really well with each other,the only snag was me getting stressed out a lot but I am working on that.(by William Hansen).</p>
+Well I think we worked really well with each other, the only snag was me getting stressed out a lot but I am working on that.(by William Hansen).</p>
 
 <p><b>https://github.com/xxwilliam/The-Non-compatibles-2</b></p>
 
